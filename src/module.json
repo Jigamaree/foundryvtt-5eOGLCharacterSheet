@@ -1,11 +1,11 @@
 {
-	"id": "5e-ogl-character-sheet",
-	"name": "5e-ogl-character-sheet",
-	"title": "D&D 5e OGL Character Sheet",
-	"description": "A character sheet resembling a classic Pencil and Paper or Roll20 sheet.",
+	"id": "5e-ogl-character-sheet-2",
+	"name": "5e-ogl-character-sheet-2",
+	"title": "2e D&D 5e OGL Character Sheet",
+	"description": "A second version of character sheet resembling a classic Pencil and Paper or Roll20 sheet.",
 	"system": ["dnd5e"],
 	"version": "0.14.1",
-	"author": "Andrew Krigline (akrigline)",
+	"author": "Jigs, Andrew Krigline (akrigline)",
 	"authors": [
 		{
 			"name": "Andrew Krigline",
